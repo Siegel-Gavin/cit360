@@ -1,0 +1,6 @@
+echo "# cit360" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Siegel-Gavin/cit360.git
+git push -u origin master
